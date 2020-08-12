@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+<img src="https://github.com/Omkar118/Omkar118/blob/master/Omkar%20Jadhav%20(1).png">
 <a href="https://twitter.com/omkar_jadhav_11">
   <img align="left" alt="Omkar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -19,7 +19,6 @@
   <img align="left" alt="Omkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-<!img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Omkar Jadhav
 - A Resolute Computer Engineer from Savitribai Phule Pune University(SPPU).
