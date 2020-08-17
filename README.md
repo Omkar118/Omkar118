@@ -12,12 +12,7 @@
 <a href="https://www.hackerrank.com/omkar101jadhav">
   <img align="left" alt="Omkar's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.instagram.com/retro_boy_118/">
-  <img align="left" alt="Omkars's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/retroboy118">
-  <img align="left" alt="Omkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
-</a>
+
 <br />
 
 ### I am Omkar Jadhav
