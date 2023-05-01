@@ -18,7 +18,7 @@
 ### I am Omkar Jadhav
 - A Resolute Computer Engineer from Savitribai Phule Pune University(SPPU).
 - A Fresher looking for opportinuties in Cloud Computing,Devops,Python Development or any other technologies. 
-- Currently working on a cool Cloud native project.
+- Currently working on a Technolgies like Oracle PLSQL,Shell Scripting, Python and much more.
 - Ready to work with any collaborator for knowledge,feel free to contact.
 
 with ⭐️ From [Omkar Jadhav](https://github.com/Omkar118)
