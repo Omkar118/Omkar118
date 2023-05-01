@@ -15,5 +15,5 @@ with ⭐️ From [Omkar Jadhav](https://github.com/Omkar118)
 </a>
 
 <a href="https://www.hackerrank.com/omkar101jadhav">
-  <img align="left" alt="Omkar's Hackerrank" width="22px" src="	https://raw.githubusercontent.com/github/explore/d…43a77e73a35680f3/topics/hackerrank/hackerrank.png" />
+  <img align="left" alt="Omkar's Hackerrank" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628823-3030100.png?f=webp&w=256" />
 </a>
