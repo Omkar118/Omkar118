@@ -9,9 +9,9 @@
 
 with ⭐️ From [Omkar Jadhav](https://github.com/Omkar118)
 
-## Connect With me here!
+### Connect With me here!
 <a href="https://www.linkedin.com/in/omkar-jadhav-480326132/">
-  <img align="left" alt="Omkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Omkar's Linkdein" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" />
 </a>
 
 <a href="https://www.hackerrank.com/omkar101jadhav">
