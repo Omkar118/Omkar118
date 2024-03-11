@@ -3,11 +3,13 @@
 
 ### I am Omkar Jadhav
 - A Resolute Computer Engineer from Savitribai Phule Pune University(SPPU).
-- A Fresher looking for opportinuties in Cloud Computing,Devops,Python Development or any other technologies. 
-- Currently working on a Technolgies like Oracle PLSQL,Shell Scripting, Python and much more.
-- Ready to work with any collaborator for knowledge,feel free to contact.
+- I am looking for opportinuties in Frontend Dev(React JS),Cloud Computing,Devops,Python Development or any other technologies. 
+- Currently working on a Technolgies like React Js,Oracle PLSQL,Shell Scripting, Python and much more.
+- Ready to work with any collaborator for knowledge,feel free to contact me on omkarjadhavwork@gmail.com
 
 with ⭐️ From [Omkar Jadhav](https://github.com/Omkar118)
+
+Checkout my [portfolio website](https://omkar118.github.io/omkarsite/)
 
 ### Connect With me here!
 <a href="https://www.linkedin.com/in/omkar-jadhav-480326132/">
